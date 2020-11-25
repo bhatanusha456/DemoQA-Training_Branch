@@ -1,0 +1,8 @@
+Config\test.class
+QA\Broken_Links_Images.class
+QA\HomePage.class
+Utils\Screenshot_Capture.class
+Config\Base.class
+Config\ReadProperty.class
+Utils\TimeOuts.class
+QA\Elements.class
